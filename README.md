@@ -1,7 +1,7 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeongGeun&fontSize=90" />
   <p>👋 Show me the money</p>
-  <img src="https://github.com/syg0203/TenProject/assets/79491796/ba0c18f1-03df-4c04-a936-4ae5640b25be" herf="https://tensecgames.com"/>
+  <a href="https://tensecgames.com">link</a><br><br>
   <p>🛠 Languages</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 
