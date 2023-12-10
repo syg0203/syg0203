@@ -1,6 +1,6 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeongGeun&fontSize=90" />
-  <p>👋 Show me the money</p>
+  <p>💵 Show me the money</p>
   <a href="https://tensecgames.com">link</a><br><br>
   <p>🛠 Languages</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
