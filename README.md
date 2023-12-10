@@ -5,8 +5,7 @@
   <p>🛠 Languages</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 
- <br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syg0203&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=syg0203&show_icons=true">
+ <br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syg0203&layout=compact">
 </div>
 
 <!--
