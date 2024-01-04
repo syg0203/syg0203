@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeongGeun&fontSize=90" />
   <br><a href="https://github.com/syg0203"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyg0203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br><br>
   <p>💵 Show me the money</p>
-  <a href="https://www.tensecgames.com/" target = "blank">🎡 Tensec Games 🎢</a><br><br>
+  <a href="https://www.tensecgames.com/">link</a><br><br>
   <p>🛠 Languages</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
  <br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syg0203&layout=compact">
